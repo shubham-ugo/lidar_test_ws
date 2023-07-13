@@ -45,8 +45,6 @@ To use this ROS workspace for autonomous SLAM mapping, follow these steps:
 
 5. Monitor the SLAM mapping process using a visualization tool such as RViz or any other compatible tool.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the terms of the license.
 
 ## Acknowledgments
 - [sciencestoked](https://github.com/sciencestoked)
