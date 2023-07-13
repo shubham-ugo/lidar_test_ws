@@ -1,0 +1,8 @@
+prefix=/home/shubham/lidar_test/devel
+
+Name: kiss_icp
+Description: Description of kiss_icp
+Version: 0.2.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

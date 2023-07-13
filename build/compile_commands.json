@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"kiss_icp\\\" -DSOPHUS_USE_BASIC_LOGGING=1 -I/home/shubham/lidar_test/src/kiss-icp/ros/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/shubham/lidar_test/src/kiss-icp/cpp -I/home/shubham/lidar_test/build/_deps/tessil-src/include -I/home/shubham/lidar_test/build/_deps/sophus-src -isystem /usr/include/eigen3  -O3 -DNDEBUG   -std=gnu++17 -o CMakeFiles/odometry_node.dir/ros1/OdometryServer.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/ros/ros1/OdometryServer.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/ros/ros1/OdometryServer.cpp"
+},
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros/kiss_icp/core",
+  "command": "/usr/bin/c++  -DROS_BUILD_SHARED_LIBS=1 -DSOPHUS_USE_BASIC_LOGGING=1 -I/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core -I/home/shubham/lidar_test/src/kiss-icp/cpp -I/home/shubham/lidar_test/build/_deps/tessil-src/include -I/home/shubham/lidar_test/build/_deps/sophus-src -isystem /usr/include/eigen3  -O3 -DNDEBUG -fPIC   -fdiagnostics-color=always -Werror -Wall -Wextra -pedantic -Wcast-align -Wcast-qual -Wconversion -Wdisabled-optimization -Woverloaded-virtual -std=gnu++17 -o CMakeFiles/core.dir/Registration.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Registration.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Registration.cpp"
+},
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros/kiss_icp/core",
+  "command": "/usr/bin/c++  -DROS_BUILD_SHARED_LIBS=1 -DSOPHUS_USE_BASIC_LOGGING=1 -I/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core -I/home/shubham/lidar_test/src/kiss-icp/cpp -I/home/shubham/lidar_test/build/_deps/tessil-src/include -I/home/shubham/lidar_test/build/_deps/sophus-src -isystem /usr/include/eigen3  -O3 -DNDEBUG -fPIC   -fdiagnostics-color=always -Werror -Wall -Wextra -pedantic -Wcast-align -Wcast-qual -Wconversion -Wdisabled-optimization -Woverloaded-virtual -std=gnu++17 -o CMakeFiles/core.dir/Deskew.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Deskew.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Deskew.cpp"
+},
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros/kiss_icp/core",
+  "command": "/usr/bin/c++  -DROS_BUILD_SHARED_LIBS=1 -DSOPHUS_USE_BASIC_LOGGING=1 -I/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core -I/home/shubham/lidar_test/src/kiss-icp/cpp -I/home/shubham/lidar_test/build/_deps/tessil-src/include -I/home/shubham/lidar_test/build/_deps/sophus-src -isystem /usr/include/eigen3  -O3 -DNDEBUG -fPIC   -fdiagnostics-color=always -Werror -Wall -Wextra -pedantic -Wcast-align -Wcast-qual -Wconversion -Wdisabled-optimization -Woverloaded-virtual -std=gnu++17 -o CMakeFiles/core.dir/VoxelHashMap.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/VoxelHashMap.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/VoxelHashMap.cpp"
+},
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros/kiss_icp/core",
+  "command": "/usr/bin/c++  -DROS_BUILD_SHARED_LIBS=1 -DSOPHUS_USE_BASIC_LOGGING=1 -I/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core -I/home/shubham/lidar_test/src/kiss-icp/cpp -I/home/shubham/lidar_test/build/_deps/tessil-src/include -I/home/shubham/lidar_test/build/_deps/sophus-src -isystem /usr/include/eigen3  -O3 -DNDEBUG -fPIC   -fdiagnostics-color=always -Werror -Wall -Wextra -pedantic -Wcast-align -Wcast-qual -Wconversion -Wdisabled-optimization -Woverloaded-virtual -std=gnu++17 -o CMakeFiles/core.dir/Preprocessing.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Preprocessing.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Preprocessing.cpp"
+},
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros/kiss_icp/core",
+  "command": "/usr/bin/c++  -DROS_BUILD_SHARED_LIBS=1 -DSOPHUS_USE_BASIC_LOGGING=1 -I/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core -I/home/shubham/lidar_test/src/kiss-icp/cpp -I/home/shubham/lidar_test/build/_deps/tessil-src/include -I/home/shubham/lidar_test/build/_deps/sophus-src -isystem /usr/include/eigen3  -O3 -DNDEBUG -fPIC   -fdiagnostics-color=always -Werror -Wall -Wextra -pedantic -Wcast-align -Wcast-qual -Wconversion -Wdisabled-optimization -Woverloaded-virtual -std=gnu++17 -o CMakeFiles/core.dir/Threshold.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Threshold.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/core/Threshold.cpp"
+},
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros/kiss_icp/metrics",
+  "command": "/usr/bin/c++  -DROS_BUILD_SHARED_LIBS=1 -I/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/metrics -I/home/shubham/lidar_test/src/kiss-icp/cpp -isystem /usr/include/eigen3  -O3 -DNDEBUG -fPIC   -fdiagnostics-color=always -Werror -Wall -Wextra -pedantic -Wcast-align -Wcast-qual -Wconversion -Wdisabled-optimization -Woverloaded-virtual -std=gnu++17 -o CMakeFiles/metrics.dir/Metrics.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/metrics/Metrics.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/metrics/Metrics.cpp"
+},
+{
+  "directory": "/home/shubham/lidar_test/build/kiss-icp/ros/kiss_icp/pipeline",
+  "command": "/usr/bin/c++  -DROS_BUILD_SHARED_LIBS=1 -DSOPHUS_USE_BASIC_LOGGING=1 -I/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/pipeline -I/home/shubham/lidar_test/src/kiss-icp/cpp -I/home/shubham/lidar_test/build/_deps/tessil-src/include -I/home/shubham/lidar_test/build/_deps/sophus-src -isystem /usr/include/eigen3  -O3 -DNDEBUG -fPIC   -fdiagnostics-color=always -Werror -Wall -Wextra -pedantic -Wcast-align -Wcast-qual -Wconversion -Wdisabled-optimization -Woverloaded-virtual -std=gnu++17 -o CMakeFiles/pipeline.dir/KissICP.cpp.o -c /home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/pipeline/KissICP.cpp",
+  "file": "/home/shubham/lidar_test/src/kiss-icp/cpp/kiss_icp/pipeline/KissICP.cpp"
+}
+]

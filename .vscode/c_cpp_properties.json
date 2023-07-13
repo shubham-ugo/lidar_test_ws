@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shubham/catkin_test_ws/devel/include/**",
+        "/home/shubham/lidar_test/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/shubham/catkin_test_ws/src/beginner_tutorials/include/**",
+        "/home/shubham/lidar_test/src/hector_slam/hector_geotiff/include/**",
+        "/home/shubham/lidar_test/src/hector_slam/hector_map_tools/include/**",
+        "/home/shubham/lidar_test/src/hector_slam/hector_mapping/include/**",
+        "/home/shubham/lidar_test/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/shubham/catkin_test_ws/src/mobile_bot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

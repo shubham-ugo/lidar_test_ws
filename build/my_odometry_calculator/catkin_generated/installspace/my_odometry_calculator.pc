@@ -1,0 +1,8 @@
+prefix=/home/shubham/lidar_test/install
+
+Name: my_odometry_calculator
+Description: Description of my_odometry_calculator
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

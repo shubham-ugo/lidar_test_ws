@@ -1,0 +1,8 @@
+prefix=/home/shubham/lidar_test/install
+
+Name: my_launcher
+Description: Description of my_launcher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

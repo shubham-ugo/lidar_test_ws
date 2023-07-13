@@ -1,0 +1,13 @@
+<launch>
+  <!-- Set robot_description parameter -->
+  <param name="/robot_description" textfile="$(find ngk_kart_desc)/urdf/ngk_kart.urdf" />
+
+  <!-- Launch joint_state_publisher_gui -->
+  <node name="joint_state_publisher_gui" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" />
+
+  <!-- Launch robot_state_publisher -->
+  <node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" />
+
+  <!-- Launch rplidar_s2 -->
+  <include file="$(find rplidar_ros)/launch/rplidar_s2.launch" />
+</launch>
